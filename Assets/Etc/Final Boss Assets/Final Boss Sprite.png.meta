@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 82d28e785af996e42a707d0a2ac4a66b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8014877367899294284
+    second: Final_Boss_Idle_0
+  - first:
+      213: -5047196596806155544
+    second: Final_Boss_Idle_1
+  - first:
+      213: -2961546007937420616
+    second: Final_Boss_Dead_8
+  - first:
+      213: 2996562916233420654
+    second: Final_Boss_Idle_2
+  - first:
+      213: -9186526310341495888
+    second: Final Boss Sprite_4
+  - first:
+      213: -8038217389039104547
+    second: Final_Boss_Idle_3
+  - first:
+      213: 6222839757869157477
+    second: Final Boss Sprite_6
+  - first:
+      213: -6480135196718178385
+    second: Final_Boss_Idle_4
+  - first:
+      213: 2120890939732501996
+    second: Final Boss Sprite_8
+  - first:
+      213: 3466134507025975355
+    second: Final_Boss_Idle_5
+  - first:
+      213: -4714488811182015910
+    second: Final Boss Sprite_10
+  - first:
+      213: 7994927966406304687
+    second: Final_Boss_Idle_6
+  - first:
+      213: 2563371820270930846
+    second: Final Boss Sprite_12
+  - first:
+      213: -3404084467054128874
+    second: Final_Boss_Idle_7
+  - first:
+      213: 8038782357555617949
+    second: Final Boss Sprite_16
+  - first:
+      213: -2158513665763636436
+    second: Final Boss Sprite_17
+  - first:
+      213: 1189747371743092330
+    second: Final Boss Sprite_18
+  - first:
+      213: -1406613529338120485
+    second: Final Boss Sprite_19
+  - first:
+      213: 1109712479949042344
+    second: Final Boss Sprite_20
+  - first:
+      213: 48597740902084372
+    second: Final Boss Sprite_21
+  - first:
+      213: -565484365123847788
+    second: Final Boss Sprite_22
+  - first:
+      213: 3584821466830851128
+    second: Final Boss Sprite_23
+  - first:
+      213: 2258749439153616580
+    second: Final_Boss_Cast1_0
+  - first:
+      213: -3562837796388146572
+    second: Final_Boss_Cast1_1
+  - first:
+      213: 5344132429954006351
+    second: Final Boss Sprite_26
+  - first:
+      213: -438938476552864664
+    second: Final_Boss_Cast1_2
+  - first:
+      213: -1689015300827247579
+    second: Final Boss Sprite_28
+  - first:
+      213: -7240834268585235400
+    second: Final_Boss_Cast1_3
+  - first:
+      213: 1283095767854108999
+    second: Final Boss Sprite_30
+  - first:
+      213: 4664833135368883134
+    second: Final_Boss_Cast1_4
+  - first:
+      213: -7892600025934094124
+    second: Final Boss Sprite_32
+  - first:
+      213: -3654179721404743195
+    second: Final_Boss_Cast1_5
+  - first:
+      213: -6249882443843063605
+    second: Final Boss Sprite_34
+  - first:
+      213: 3564968728883160543
+    second: Final_Boss_Cast1_6
+  - first:
+      213: 6939242718049714818
+    second: Final Boss Sprite_36
+  - first:
+      213: 443051001206609498
+    second: Final_Boss_Cast1_7
+  - first:
+      213: -9063857748976316210
+    second: Final Boss Sprite_38
+  - first:
+      213: -2220083928156218442
+    second: Final_Boss_Cast1_8
+  - first:
+      213: 3782599258847044067
+    second: Final Boss Sprite_40
+  - first:
+      213: 8752176857243542783
+    second: Final_Boss_Cast1_9
+  - first:
+      213: 4578775797170058239
+    second: Final Boss Sprite_42
+  - first:
+      213: 3690284625251451526
+    second: Final_Boss_Cast1_10
+  - first:
+      213: -5301914158286484234
+    second: Final_Boss_Cast1_11
+  - first:
+      213: -6523899124828259824
+    second: Final Boss Sprite_45
+  - first:
+      213: -1954056761290586496
+    second: Final_Boss_Cast1_12
+  - first:
+      213: 7161069611809268750
+    second: Final Boss Sprite_47
+  - first:
+      213: 714718580561010019
+    second: Final Boss Sprite_48
+  - first:
+      213: 602509399540215818
+    second: Final Boss Sprite_49
+  - first:
+      213: -4647160280411738156
+    second: Final Boss Sprite_95
+  - first:
+      213: 5603200279229660773
+    second: Final Boss Sprite_99
+  - first:
+      213: 7358495801247512092
+    second: Final Boss Sprite_105
+  - first:
+      213: -4522962420312297914
+    second: Final_Boss_Cast2_0
+  - first:
+      213: 3341129845372231227
+    second: Final_Boss_Cast2_1
+  - first:
+      213: 589793181145267205
+    second: Final Boss Sprite_52
+  - first:
+      213: 6492989111871571339
+    second: Final_Boss_Cast2_2
+  - first:
+      213: -5431336351915381779
+    second: Final Boss Sprite_54
+  - first:
+      213: -1686622056849152318
+    second: Final_Boss_Cast2_3
+  - first:
+      213: -1426484264569059400
+    second: Final Boss Sprite_56
+  - first:
+      213: 8947169120782926013
+    second: Final_Boss_Cast2_4
+  - first:
+      213: 8369254541277936414
+    second: Final Boss Sprite_58
+  - first:
+      213: -397997263511428989
+    second: Final_Boss_Cast2_5
+  - first:
+      213: -7840850716080985553
+    second: Final Boss Sprite_60
+  - first:
+      213: 2533742864785350604
+    second: Final_Boss_Cast2_6
+  - first:
+      213: 8020109718851279763
+    second: Final Boss Sprite_62
+  - first:
+      213: -5266374300471268098
+    second: Final_Boss_Cast2_7
+  - first:
+      213: 2507658264387730831
+    second: Final Boss Sprite_64
+  - first:
+      213: -2207071662670953840
+    second: Final_Boss_Cast2_8
+  - first:
+      213: 5338313489074132185
+    second: Final Boss Sprite_66
+  - first:
+      213: 5396944250896765399
+    second: Final_Boss_Cast2_9
+  - first:
+      213: -7912417379713890407
+    second: Final Boss Sprite_68
+  - first:
+      213: 768553069738911838
+    second: Final_Boss_Cast2_10
+  - first:
+      213: 2952936922447101058
+    second: Final Boss Sprite_70
+  - first:
+      213: 7009077052922526486
+    second: Final_Boss_Cast2_11
+  - first:
+      213: 5282070554472202321
+    second: Final_Boss_Cast2_12
+  - first:
+      213: -1235588092923940399
+    second: Final Boss Sprite_75
+  - first:
+      213: 3528827842786951493
+    second: Final_Boss_Attack_0
+  - first:
+      213: -4388495253917677865
+    second: Final_Boss_Attack_1
+  - first:
+      213: 2038550249294981790
+    second: Final_Boss_Attack_2
+  - first:
+      213: 4794935109463692610
+    second: Final_Boss_Attack_3
+  - first:
+      213: 3171665371179887523
+    second: Final_Boss_Attack_4
+  - first:
+      213: -2632260157294903772
+    second: Final_Boss_Attack_5
+  - first:
+      213: -4503495099314582424
+    second: Final Boss Sprite_82
+  - first:
+      213: -1464197198435676279
+    second: Final_Boss_Attack_6
+  - first:
+      213: 7967525120154784798
+    second: Final Boss Sprite_84
+  - first:
+      213: 4301355911750692315
+    second: Final_Boss_Attack_7
+  - first:
+      213: -7794064065952300891
+    second: Final_Boss_Attack_8
+  - first:
+      213: 2694484296865827917
+    second: Final_Boss_Attack_9
+  - first:
+      213: 5148098114022883064
+    second: Final_Boss_Attack_10
+  - first:
+      213: 1410773332021419778
+    second: Final_Boss_Attack_11
+  - first:
+      213: 2886710542198569379
+    second: Final_Boss_Attack_12
+  - first:
+      213: -3020606615550070486
+    second: Final_Boss_Attack_13
+  - first:
+      213: -3801958878276499682
+    second: Final_Boss_Attack_14
+  - first:
+      213: -5325578159992545461
+    second: Final_Boss_Attack_15
+  - first:
+      213: -5131509239290681712
+    second: Final_Boss_Attack_16
+  - first:
+      213: -2123449651701255418
+    second: Final Boss Sprite_96
+  - first:
+      213: -3380711804366379169
+    second: Final Boss Sprite_97
+  - first:
+      213: -4480455976710966164
+    second: Final_Boss_Dead_0
+  - first:
+      213: -1397209753381845455
+    second: Final_Boss_Dead_1
+  - first:
+      213: 2184646198277318761
+    second: Final_Boss_Dead_2
+  - first:
+      213: -1467908314144293820
+    second: Final Boss Sprite_110
+  - first:
+      213: -2232512878969720247
+    second: Final_Boss_Dead_3
+  - first:
+      213: 3505869792846443173
+    second: Final Boss Sprite_112
+  - first:
+      213: 4832912316658633939
+    second: Final_Boss_Dead_4
+  - first:
+      213: 5849876587652858001
+    second: Final Boss Sprite_114
+  - first:
+      213: -349013483396619890
+    second: Final_Boss_Dead_5
+  - first:
+      213: 2819014096497251115
+    second: Final Boss Sprite_116
+  - first:
+      213: -2705884326847078994
+    second: Final Boss Sprite_117
+  - first:
+      213: 6282502308033231436
+    second: Final Boss Sprite_118
+  - first:
+      213: -6314789483095624783
+    second: Final Boss Sprite_119
+  - first:
+      213: 2795893557938575768
+    second: Final Boss Sprite_120
+  - first:
+      213: -7928505651819590334
+    second: Final Boss Sprite_121
+  - first:
+      213: -516091583876276159
+    second: Final Boss Sprite_122
+  - first:
+      213: -3829086283069300049
+    second: Final Boss Sprite_123
+  - first:
+      213: -2104316759023388429
+    second: Final Boss Sprite_124
+  - first:
+      213: 4628267364119594016
+    second: Final Boss Sprite_125
+  - first:
+      213: -3577838353595894855
+    second: Final_Boss_Dead_7
+  - first:
+      213: 7297238494591862046
+    second: Final Boss Sprite_128
+  - first:
+      213: -8909751046284383376
+    second: Final Boss Sprite_129
+  - first:
+      213: -7511505320136303791
+    second: Final Boss Sprite_130
+  - first:
+      213: -5545723235483575504
+    second: Final Boss Sprite_131
+  - first:
+      213: -7998284550919888520
+    second: Final Boss Sprite_132
+  - first:
+      213: -7806091685893105782
+    second: Final Boss Sprite_133
+  - first:
+      213: 3540708624405810105
+    second: Final_Boss_Dead_6
+  - first:
+      213: 2344059820338724843
+    second: Final Boss Sprite_135
+  - first:
+      213: -8480629281270547931
+    second: Final Boss Sprite_136
+  - first:
+      213: -8542985358393163227
+    second: Final Boss Sprite_137
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 5
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Final_Boss_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 781
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a84ff50809a3f60800000000000000
+      internalID: 8014877367899294284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Boss Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e7ad887f092cd40800000000000000
+      internalID: 5603200279229660773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 782
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e20fc7bf61c4f9b0800000000000000
+      internalID: -5047196596806155544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 784
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f9339881ee59920800000000000000
+      internalID: 2996562916233420654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 785
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc4fa7fd3827090800000000000000
+      internalID: -8038217389039104547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 785
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5b1f2f5fe116a0800000000000000
+      internalID: -6480135196718178385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 784
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c10348fe2a1030800000000000000
+      internalID: 3466134507025975355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 782
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3eb7260a0b3fe60800000000000000
+      internalID: 7994927966406304687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 781
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61150db763342c0d0800000000000000
+      internalID: -3404084467054128874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 525
+        width: 41
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4629978, y: 0.69336414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c63d55c5a0b85f10800000000000000
+      internalID: 2258749439153616580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 526
+        width: 39
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5097269, y: 0.6286883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f2f1a6e14e8ec0800000000000000
+      internalID: -3562837796388146572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 527
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb0daf7c398e9f0800000000000000
+      internalID: -438938476552864664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 528
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6087a893638b90800000000000000
+      internalID: -7240834268585235400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 529
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb42227501dcb040800000000000000
+      internalID: 4664833135368883134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 530
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10c3077eeb94dc0800000000000000
+      internalID: -3654179721404743195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 531
+        width: 41
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4824844, y: 0.48084798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5e470cb20597130800000000000000
+      internalID: 3564968728883160543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 531
+        width: 41
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48832294, y: 0.49029458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a561d48c988062600800000000000000
+      internalID: 443051001206609498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_8
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 530
+        width: 59
+        height: 86
+      alignment: 9
+      pivot: {x: 0.36203778, y: 0.41091776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbd1ba0e6da031e0800000000000000
+      internalID: -2220083928156218442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_9
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 529
+        width: 65
+        height: 93
+      alignment: 9
+      pivot: {x: 0.3047908, y: 0.37643465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4656b0b7af57970800000000000000
+      internalID: 8752176857243542783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_10
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 529
+        width: 69
+        height: 97
+      alignment: 9
+      pivot: {x: 0.2983699, y: 0.35222572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c2309056863330800000000000000
+      internalID: 3690284625251451526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_11
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 527
+        width: 73
+        height: 101
+      alignment: 9
+      pivot: {x: 0.28631842, y: 0.34138173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc48bde921db66b0800000000000000
+      internalID: -5301914158286484234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast1_12
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 526
+        width: 41
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47943562, y: 0.69789094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08603588abbc1e4e0800000000000000
+      internalID: -1954056761290586496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 397
+        width: 41
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4877083, y: 0.6581044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e28d474a53b31c0800000000000000
+      internalID: -4522962420312297914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 398
+        width: 40
+        height: 56
+      alignment: 9
+      pivot: {x: 0.47480202, y: 0.5899925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1edd64e31e5e20800000000000000
+      internalID: 3341129845372231227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 399
+        width: 40
+        height: 62
+      alignment: 9
+      pivot: {x: 0.49999848, y: 0.55689853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b858597223bbb1a50800000000000000
+      internalID: 6492989111871571339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 400
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6ea27ec2ae798e0800000000000000
+      internalID: -1686622056849152318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 401
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04c9549eaba2c70800000000000000
+      internalID: 8947169120782926013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 402
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380e2d6f8970a7af0800000000000000
+      internalID: -397997263511428989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 403
+        width: 41
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48314238, y: 0.4723531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf16bf06b9a92320800000000000000
+      internalID: 2533742864785350604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 403
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce926e9741ae6b0800000000000000
+      internalID: -5266374300471268098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_8
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 402
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092caa03408ee51e0800000000000000
+      internalID: -2207071662670953840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_9
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 401
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d943b33cc5ea40800000000000000
+      internalID: 5396944250896765399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_10
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 400
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e2d8e1f27aaa00800000000000000
+      internalID: 768553069738911838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_11
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 399
+        width: 39
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6248627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf9c6a17e354160800000000000000
+      internalID: 7009077052922526486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Cast2_12
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 398
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150cdd50f2fad4940800000000000000
+      internalID: 5282070554472202321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 269
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54103daf93ae8f030800000000000000
+      internalID: 3528827842786951493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 270
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6cfbb51dee813c0800000000000000
+      internalID: -4388495253917677865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 271
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ae20aa6a26a4c10800000000000000
+      internalID: 2038550249294981790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 272
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d1a0d3180b8240800000000000000
+      internalID: 4794935109463692610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 274
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba593d9d4040c20800000000000000
+      internalID: 3171665371179887523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 275
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ef5005555587bd0800000000000000
+      internalID: -2632260157294903772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 276
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8e1ad7602eabe0800000000000000
+      internalID: -1464197198435676279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 275
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2d64896c71bb30800000000000000
+      internalID: 4301355911750692315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 275
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c648d60ce5d390800000000000000
+      internalID: -7794064065952300891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 274
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c4e87213bb46520800000000000000
+      internalID: 2694484296865827917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 273
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe313b75f7b17740800000000000000
+      internalID: 5148098114022883064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 272
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1bb1fed2149310800000000000000
+      internalID: 1410773332021419778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 271
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9fe1591f7af0820800000000000000
+      internalID: 2886710542198569379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 270
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2171f97946a416d0800000000000000
+      internalID: -3020606615550070486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 268
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17cfa93b8abc3bc0800000000000000
+      internalID: -3801958878276499682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 267
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd01e21eeb716b0800000000000000
+      internalID: -5325578159992545461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 268
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a176e88739c8b0800000000000000
+      internalID: -5131509239290681712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64fd54170932d1c0800000000000000
+      internalID: -4480455976710966164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136c6fcc12d1c9ce0800000000000000
+      internalID: -1397209753381845455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 17
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682a30842c615e10800000000000000
+      internalID: 2184646198277318761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 17
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942768c6d558401e0800000000000000
+      internalID: -2232512878969720247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 19
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc4c096524f11340800000000000000
+      internalID: 4832912316658633939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_5
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 19
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a254061e082bf0800000000000000
+      internalID: -349013483396619890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_7
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 16
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f52e39f6f85ec0800000000000000
+      internalID: -3577838353595894855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_6
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 17
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbced20cbf132130800000000000000
+      internalID: 3540708624405810105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final_Boss_Dead_8
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 16
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f9e2c89976e6d0800000000000000
+      internalID: -2961546007937420616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

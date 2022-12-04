@@ -1,0 +1,146 @@
+{
+    "name": "BossActions",
+    "maps": [
+        {
+            "name": "BossKeyPress",
+            "id": "d764aa8a-00e3-484f-a268-01e52e176182",
+            "actions": [
+                {
+                    "name": "NodeA",
+                    "type": "Button",
+                    "id": "164703a5-2ae1-4f49-a112-9e6cf409dde2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "NodeS",
+                    "type": "Button",
+                    "id": "a922c5ca-b0a6-4559-84ae-b2f2ced0b7e0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "NodeD",
+                    "type": "Button",
+                    "id": "48796713-b03d-437d-97f2-10cbf915cbae",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "NodeZ",
+                    "type": "Button",
+                    "id": "b294da3b-9c0f-4b89-bf1d-332822174f58",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "NodeX",
+                    "type": "Button",
+                    "id": "32cee12d-2eb1-4df7-8df1-8a15900841cf",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "NodeC",
+                    "type": "Button",
+                    "id": "80137c4a-be67-4e93-b08d-84e6764ccb5f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4fcac90a-64f6-4731-ba5b-9f8ecead581e",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "BossKeyboard",
+                    "action": "NodeA",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "69c392c8-0639-410b-8fe5-45156a4c7f57",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "BossKeyboard",
+                    "action": "NodeS",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "283a5ff9-0bdf-474b-b6a0-1fe897f43c28",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "BossKeyboard",
+                    "action": "NodeD",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f19f44e5-6a5f-44fb-943f-5920c8d152f7",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "BossKeyboard",
+                    "action": "NodeZ",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8c73e72a-6250-43bb-8c36-6b2b2478eae4",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "BossKeyboard",
+                    "action": "NodeX",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2b9b57d8-1e80-4c9b-8723-dbea0aab575e",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "BossKeyboard",
+                    "action": "NodeC",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "BossKeyboard",
+            "bindingGroup": "BossKeyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

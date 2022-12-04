@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: 6698c2f791b06ce4b94a29b0f5ad857a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6116126114489959242
+    second: SlowDownEffect_0
+  - first:
+      213: 205312705655580144
+    second: SlowDownEffect_1
+  - first:
+      213: -3250248416947744843
+    second: SlowDownEffect_2
+  - first:
+      213: -4969959437262808241
+    second: SlowDownEffect_3
+  - first:
+      213: -3708646375967324812
+    second: SlowDownEffect_4
+  - first:
+      213: 4264744758691340610
+    second: SlowDownEffect_5
+  - first:
+      213: 3186365261108604253
+    second: SlowDownEffect_6
+  - first:
+      213: -9029551155991491441
+    second: SlowDownEffect_7
+  - first:
+      213: 5387365004283684022
+    second: SlowDownEffect_8
+  - first:
+      213: 1405226503606526741
+    second: SlowDownEffect_9
+  - first:
+      213: -3991508288023718737
+    second: SlowDownEffect_10
+  - first:
+      213: 5407088217344354461
+    second: SlowDownEffect_11
+  - first:
+      213: -720243685416054141
+    second: SlowDownEffect_12
+  - first:
+      213: 2437357577588541758
+    second: SlowDownEffect_13
+  - first:
+      213: -107221367436633137
+    second: SlowDownEffect_14
+  - first:
+      213: -5452372705280957067
+    second: SlowDownEffect_15
+  - first:
+      213: 5673116979428623494
+    second: SlowDownEffect_16
+  - first:
+      213: 7167377313699933083
+    second: SlowDownEffect_17
+  - first:
+      213: -5060563214178591479
+    second: SlowDownEffect_18
+  - first:
+      213: 2538767396509603714
+    second: SlowDownEffect_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlowDownEffect_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1630
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf55814b72f1ba0800000000000000
+      internalID: -6116126114489959242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1589
+        width: 180
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5a97861da69d200800000000000000
+      internalID: 205312705655580144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1550
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfcd0c094cc4e2d0800000000000000
+      internalID: -3250248416947744843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_3
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1525
+        width: 310
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b99d94938270bb0800000000000000
+      internalID: -4969959437262808241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_4
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1500
+        width: 362
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4758de235cd388cc0800000000000000
+      internalID: -3708646375967324812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1008
+        width: 388
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241a18f23ca6f2b30800000000000000
+      internalID: 4264744758691340610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1001
+        width: 402
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5de509a25e383c20800000000000000
+      internalID: 3186365261108604253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1001
+        width: 404
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cc8e1701790b280800000000000000
+      internalID: -9029551155991491441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_8
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 999
+        width: 406
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b423bb8de3c3ca40800000000000000
+      internalID: 5387365004283684022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_9
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 996
+        width: 410
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5136e605f0e508310800000000000000
+      internalID: 1405226503606526741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 515
+        width: 413
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa491562c505b98c0800000000000000
+      internalID: -3991508288023718737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 515
+        width: 412
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a200f516d90b40800000000000000
+      internalID: 5407088217344354461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 516
+        width: 411
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382de032f2e2106f0800000000000000
+      internalID: -720243685416054141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_13
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 517
+        width: 409
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3985ca9dcb33d120800000000000000
+      internalID: 2437357577588541758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_14
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 518
+        width: 409
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb9b910cb2138ef0800000000000000
+      internalID: -107221367436633137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 407
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57561b699e74554b0800000000000000
+      internalID: -5452372705280957067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 39
+        width: 408
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6848418d5d5fabe40800000000000000
+      internalID: 5673116979428623494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_17
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 39
+        width: 408
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b274241b3a77360800000000000000
+      internalID: 7167377313699933083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_18
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 38
+        width: 408
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd977919445c9b0800000000000000
+      internalID: -5060563214178591479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlowDownEffect_19
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 36
+        width: 408
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2875c440f738b3320800000000000000
+      internalID: 2538767396509603714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

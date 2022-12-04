@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 7f3e901820c1a774c821fbb26452a6d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3065655447489307323
+    second: Dark VFX 7 Ending (48x48)_0
+  - first:
+      213: -361686747379190919
+    second: Dark VFX 7 Ending (48x48)_1
+  - first:
+      213: 7466457591919372989
+    second: Dark VFX 7 Ending (48x48)_2
+  - first:
+      213: -2521150316406643300
+    second: Dark VFX 7 Ending (48x48)_3
+  - first:
+      213: 913500549575559736
+    second: Dark VFX 7 Ending (48x48)_4
+  - first:
+      213: -1022031382205041629
+    second: Dark VFX 7 Ending (48x48)_5
+  - first:
+      213: 6007664278672515277
+    second: Dark VFX 7 Ending (48x48)_6
+  - first:
+      213: 5668182362695715330
+    second: Dark VFX 7 Ending (48x48)_7
+  - first:
+      213: 5274343402218627211
+    second: Dark VFX 7 Ending (48x48)_8
+  - first:
+      213: 5774911512316247704
+    second: Dark VFX 7 Ending (48x48)_9
+  - first:
+      213: -9073988824566057220
+    second: Dark VFX 7 Ending (48x48)_11
+  - first:
+      213: -8040575942776423980
+    second: Dark VFX 7 Ending (48x48)_13
+  - first:
+      213: 2851111320713710595
+    second: Dark VFX 7 Ending (48x48)_15
+  - first:
+      213: -1666603458764000410
+    second: Dark VFX 7 Ending (48x48)_17
+  - first:
+      213: -6278410356626654749
+    second: Dark VFX 7 Ending (48x48)_10
+  - first:
+      213: -2590835912418893381
+    second: Dark VFX 7 Ending (48x48)_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.48836428, y: 0.44597223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d98a0fc9a9475d0800000000000000
+      internalID: -3065655447489307323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 41
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5036898, y: 0.46870118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733f7ec1d70bfaf0800000000000000
+      internalID: -361686747379190919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7
+        width: 41
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.46470183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba6fd0fe9f2e9760800000000000000
+      internalID: 7466457591919372989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e7351523130dd0800000000000000
+      internalID: -2521150316406643300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a439fe8e76dac00800000000000000
+      internalID: 913500549575559736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324fd527fd301d1f0800000000000000
+      internalID: -1022031382205041629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5113121, y: 0.4424562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0241cd4d28f5350800000000000000
+      internalID: 6007664278672515277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 13
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43556398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20acc9ad3dd69ae40800000000000000
+      internalID: 5668182362695715330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 12
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43619078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80aaa0316b323940800000000000000
+      internalID: 5274343402218627211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e7ce47c6b942050800000000000000
+      internalID: 5774911512316247704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1
+        width: 34
+        height: 46
+      alignment: 9
+      pivot: {x: 0.519437, y: 0.47701287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf630e77d37b21280800000000000000
+      internalID: -9073988824566057220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5216117, y: 0.49684837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97245e7c22a6090800000000000000
+      internalID: -8040575942776423980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_15
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c4c3ee3ae219720800000000000000
+      internalID: 2851111320713710595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_17
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 12
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6633feafbf80fd8e0800000000000000
+      internalID: -1666603458764000410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9722b8b0b9ed8a0800000000000000
+      internalID: -6278410356626654749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 7 Ending (48x48)_12
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb162f8e6708b0cd0800000000000000
+      internalID: -2590835912418893381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

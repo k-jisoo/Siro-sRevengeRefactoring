@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: b30039f944fd7de44942de4f2300e36a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -321770538661017793
+    second: BindEye_5
+  - first:
+      213: 2176314466483578671
+    second: BindEye_6
+  - first:
+      213: -1135571707517712776
+    second: BindEye_7
+  - first:
+      213: -6627758986133929259
+    second: BindEye_8
+  - first:
+      213: 6157854024139634885
+    second: BindEye_9
+  - first:
+      213: -8566483021351485818
+    second: BindEye_10
+  - first:
+      213: 2297220569120644472
+    second: BindEye_11
+  - first:
+      213: -1253651811254195336
+    second: BindEye_12
+  - first:
+      213: 3623464900619876787
+    second: BindEye_13
+  - first:
+      213: -9088344242274395598
+    second: BindEye_15
+  - first:
+      213: -7783134831475452827
+    second: BindEye_18
+  - first:
+      213: 6355017973853289945
+    second: BindEye_19
+  - first:
+      213: -2592194517744261865
+    second: BindEye_0
+  - first:
+      213: -1473568136270835509
+    second: BindEye_1
+  - first:
+      213: -5180281687737614146
+    second: BindEye_2
+  - first:
+      213: 3045107553078934826
+    second: BindEye_3
+  - first:
+      213: 33262645176810972
+    second: BindEye_4
+  - first:
+      213: -1035858092498085115
+    second: BindEye_15
+  - first:
+      213: 508699577704121176
+    second: BindEye_16
+  - first:
+      213: 2740060951914829188
+    second: BindEye_17
+  - first:
+      213: 1210498730584742157
+    second: BindEye_20
+  - first:
+      213: 3058604347485622055
+    second: BindEye_21
+  - first:
+      213: -7162470046718871753
+    second: BindEye_23
+  - first:
+      213: 7275029026063922056
+    second: BindEye_24
+  - first:
+      213: 785063373315832968
+    second: BindEye_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BindEye_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 5
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f378cef5667d88bf0800000000000000
+      internalID: -321770538661017793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272c460a72d33e10800000000000000
+      internalID: 2176314466483578671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8764c6c6c83ad30f0800000000000000
+      internalID: -1135571707517712776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 6
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2859641587504a0800000000000000
+      internalID: -6627758986133929259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c87d87fb97157550800000000000000
+      internalID: 6157854024139634885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68efde9441dbd1980800000000000000
+      internalID: -8566483021351485818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1829bfed51ef10800000000000000
+      internalID: 2297220569120644472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b2b2ed1522a9ee0800000000000000
+      internalID: -1253651811254195336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 6
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b93b811122294230800000000000000
+      internalID: 3623464900619876787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a94c25017bfd180800000000000000
+      internalID: -9088344242274395598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5649fea8b10ccf390800000000000000
+      internalID: -7783134831475452827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_19
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 4
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7fb84d2f813850800000000000000
+      internalID: 6355017973853289945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156325f1dca60cd0800000000000000
+      internalID: -2592194517744261865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc01e3d5695dc8be0800000000000000
+      internalID: -1473568136270835509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb040f55041fb18b0800000000000000
+      internalID: -5180281687737614146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df0249f25624a20800000000000000
+      internalID: 3045107553078934826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddbd06133c267000800000000000000
+      internalID: 33262645176810972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b10f69d84ef91f0800000000000000
+      internalID: -1035858092498085115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853027a12934f0700800000000000000
+      internalID: 508699577704121176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4855dc51be6a60620800000000000000
+      internalID: 2740060951914829188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_20
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51372856, y: 0.51144016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0990959e2e8cc010800000000000000
+      internalID: 1210498730584742157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_21
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 6
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f8858e278527a20800000000000000
+      internalID: 3058604347485622055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_23
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 6
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73732fed07bc99c90800000000000000
+      internalID: -7162470046718871753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_24
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 6
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883323dba5816f460800000000000000
+      internalID: 7275029026063922056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BindEye_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 6
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf8a48afa15ea00800000000000000
+      internalID: 785063373315832968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

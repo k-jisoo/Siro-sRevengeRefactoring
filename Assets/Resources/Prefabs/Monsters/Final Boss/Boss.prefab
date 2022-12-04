@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1203287939554438052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1203287939554438049}
+  - component: {fileID: 1203287939554438054}
+  - component: {fileID: 1203287939554438055}
+  - component: {fileID: 1203287939554438048}
+  - component: {fileID: 1203287939554438051}
+  - component: {fileID: 1203287939554438050}
+  m_Layer: 0
+  m_Name: Boss
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1203287939554438049
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203287939554438052}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.67, y: 1.75, z: 0}
+  m_LocalScale: {x: 10, y: 10, z: 10}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1203287939554438054
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203287939554438052}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 5
+  m_Sprite: {fileID: 8014877367899294284, guid: 82d28e785af996e42a707d0a2ac4a66b,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.42, y: 0.52}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &1203287939554438055
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203287939554438052}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4d8158185ee80494a9da46bacbf7615f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1203287939554438048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203287939554438052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a33044e4ad3f604f9ec8422b16fecc7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  basicStat: {fileID: 11400000, guid: af11a95e4ee376e4994f7a2819189060, type: 2}
+  contactDistance: 10
+  finalBossSkull: {fileID: 7382934670996431563, guid: eb4cd1cbc60c71e4189e42a1ecf37ca5,
+    type: 3}
+  finalBossRuinStk: {fileID: 1421817752121113056, guid: ca77da5b8e140df4bbdb0fdab8945a9d,
+    type: 3}
+  finalBossDarkHeal: {fileID: 7854267774851678729, guid: a1de7fd2760b04c45833e07480a0c87b,
+    type: 3}
+  finalBossDarkHealFailed: {fileID: 207980064387310228, guid: d517c3978168f4141ad6b92e7ecc2fd7,
+    type: 3}
+  finalBossBindEye: {fileID: 7369592150869245040, guid: 9e60cd61ee95efa4a9aaa2dcc313b91b,
+    type: 3}
+  finalBossBindVineFail: {fileID: 8459095421408001034, guid: 9adc35ef391e16e42b18a1b5345d0dd3,
+    type: 3}
+  finalBossBindVineSucess: {fileID: 5121837385523639332, guid: 088cc7d67058b884d997d60a1c8b93f1,
+    type: 3}
+  finalBossInputSoul: {fileID: 5242094935792952801, guid: 21e41e92f89dcf045a7f16553f7fd419,
+    type: 3}
+  keyListObject:
+  - {fileID: 4846550061063696024, guid: d0fd21ef09b04f24db162232b126a8ca, type: 3}
+  - {fileID: 9010369884233583597, guid: 40a1808f6b8bdf941bd531987e1526ca, type: 3}
+  - {fileID: 7952206987465891535, guid: 77c1230ba139d1146803c9dd68d46760, type: 3}
+  - {fileID: 5465042396692135023, guid: 9015f11cebf97eb448ada415d43f38e2, type: 3}
+  - {fileID: 7103909738848188010, guid: 090589f7f32f38d4689f224f0656b327, type: 3}
+  - {fileID: 8865842915923590607, guid: aa53fb6ccd3218d4e8ada19ddfce5846, type: 3}
+  originalMaterial: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  hurtMaterial: {fileID: 2100000, guid: c839255fc8f6b4b4d90bf8c1af9f9bd1, type: 3}
+  seekerPrefab: {fileID: 6279684435295860098, guid: be28ad4073d11ba47a42653371305c36,
+    type: 3}
+  SkeletonSeekerSpawner: {fileID: 2084283507, guid: 5dbf7f272ac796c499f8c92017fe721d,
+    type: 3}
+--- !u!50 &1203287939554438051
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203287939554438052}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 10000
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!70 &1203287939554438050
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1203287939554438052}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.024140626, y: 0.010859676}
+  m_Size: {x: 0.39, y: 0.52}
+  m_Direction: 0

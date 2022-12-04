@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/LeanTween/Framework/LTDescr.cs.meta
+guid: 381c8d6fb1acdc348870a7147bc98723
+timeCreated: 1463137984
+licenseType: Store
+========
+guid: 99d317f30c9353a4ea39134961b9b3dd
+>>>>>>>> 91a3e302c623fed30fde50d07e62650624662fbe:Assets/Scripts/Monsters/HPbarController.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

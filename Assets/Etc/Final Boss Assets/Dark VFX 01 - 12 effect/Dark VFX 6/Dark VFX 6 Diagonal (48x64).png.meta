@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 4df077eb70253184c97e0fd7faa4614e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7340924561041937045
+    second: Dark VFX 6 Diagonal (48x64)_0
+  - first:
+      213: 9118013363304851783
+    second: Dark VFX 6 Diagonal (48x64)_1
+  - first:
+      213: -668613607984474143
+    second: Dark VFX 6 Diagonal (48x64)_2
+  - first:
+      213: 5490320219602537662
+    second: Dark VFX 6 Diagonal (48x64)_3
+  - first:
+      213: -8411212213312545825
+    second: Dark VFX 6 Diagonal (48x64)_4
+  - first:
+      213: 8117153488465924721
+    second: Dark VFX 6 Diagonal (48x64)_5
+  - first:
+      213: -2103871975592603904
+    second: Dark VFX 6 Diagonal (48x64)_6
+  - first:
+      213: -1059640390419988312
+    second: Dark VFX 6 Diagonal (48x64)_7
+  - first:
+      213: 2614396543729854445
+    second: Dark VFX 6 Diagonal (48x64)_8
+  - first:
+      213: 2221347971414888594
+    second: Dark VFX 6 Diagonal (48x64)_9
+  - first:
+      213: -2379624322897053522
+    second: Dark VFX 6 Diagonal (48x64)_10
+  - first:
+      213: 7710965737566755161
+    second: Dark VFX 6 Diagonal (48x64)_11
+  - first:
+      213: -1724275124954846827
+    second: Dark VFX 6 Diagonal (48x64)_13
+  - first:
+      213: 2820663448623662266
+    second: Dark VFX 6 Diagonal (48x64)_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 44
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6da720710ccf1a90800000000000000
+      internalID: -7340924561041937045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ec0938d0b98e70800000000000000
+      internalID: 9118013363304851783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 43
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d71c477b98b6f0800000000000000
+      internalID: -668613607984474143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 43
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebccd889629813c40800000000000000
+      internalID: 5490320219602537662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 45
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb14177e0f554b80800000000000000
+      internalID: -8411212213312545825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172955b571ce5a070800000000000000
+      internalID: 8117153488465924721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 14
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f47e1c59b8dc2e0800000000000000
+      internalID: -2103871975592603904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 13
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04c5bdda66b41f0800000000000000
+      internalID: -1059640390419988312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4702012, y: 0.47096533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7e60b0ec3384420800000000000000
+      internalID: 2614396543729854445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29018b6f530d3de10800000000000000
+      internalID: 2221347971414888594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 15
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea877de3940e9fed0800000000000000
+      internalID: -2379624322897053522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 15
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959dfdedb7ad20b60800000000000000
+      internalID: 7710965737566755161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 15
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5992602d8e42218e0800000000000000
+      internalID: -1724275124954846827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark VFX 6 Diagonal (48x64)_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 14
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.52461576, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab444264672052720800000000000000
+      internalID: 2820663448623662266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
